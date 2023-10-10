@@ -14,6 +14,6 @@ schemeSvg.addEventListener('click', (Event) =>{
     }
 });
 menuButton.addEventListener('click', () =>{
-    console.log('куда хуяришь');
+    console.log('попал');
     menu.classList.toggle('is-open');
 })
